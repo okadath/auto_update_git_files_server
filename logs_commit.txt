@@ -1,4 +1,0 @@
-[master 63bbaec] {message}
- 2 files changed, 1 insertion(+), 1 deletion(-)
- create mode 100644 logs_commit.txt
-Branch master set up to track remote branch master from origin.
