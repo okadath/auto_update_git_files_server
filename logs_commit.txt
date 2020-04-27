@@ -19,3 +19,10 @@ Branch master set up to track remote branch master from origin.
 To git@github.com:okadath/auto_update_git_files_server.git
    c130882..a2a5a9e  master -> master
 Branch master set up to track remote branch master from origin.
+[master e490a28] {message}
+ 3 files changed, 7 insertions(+)
+ delete mode 100644 Untitled Document
+ create mode 100644 readme.md
+To git@github.com:okadath/auto_update_git_files_server.git
+   a2a5a9e..e490a28  master -> master
+Branch master set up to track remote branch master from origin.
